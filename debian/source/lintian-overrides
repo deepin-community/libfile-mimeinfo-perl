@@ -1,0 +1,5 @@
+# just some empty test files
+libfile-mimeinfo-perl source: source-is-missing t/default/binary_file
+libfile-mimeinfo-perl source: source-is-missing t/magic/application_x-executable
+libfile-mimeinfo-perl source: source-contains-prebuilt-binary t/default/binary_file
+libfile-mimeinfo-perl source: source-contains-prebuilt-binary t/magic/application_x-executable
