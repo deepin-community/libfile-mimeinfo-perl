@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: File-MimeInfo
-Upstream-Contact: Michiel Beijen <michiel.beijen@gmail.com>
+Upstream-Contact: Michiel Beijen <mb@x14.nl>
 Source: https://metacpan.org/release/File-MimeInfo
 
 Files: *
@@ -11,7 +11,7 @@ Files: debian/*
 Copyright: 2005, 2006, Florian Ragwitz <rafl@debian.org>
  2008, Damyan Ivanov <dmn@debian.org>
  2009, Ryan Niebur <ryan@debian.org>
- 2011-2020, gregor herrmann <gregoa@debian.org>
+ 2011-2024, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
